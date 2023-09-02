@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on ✨ thenzolima</title>
+    <link>https://www.thenzolima.com.br/jardim-digital/tags/linux/</link>
+    <description>Recent content in Linux on ✨ thenzolima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.thenzolima.com.br/jardim-digital/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minha experiência com Linux no Desktop.</title>
+      <link>https://www.thenzolima.com.br/jardim-digital/posts/minha-experiencia-linux/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thenzolima.com.br/jardim-digital/posts/minha-experiencia-linux/</guid>
+      <description>Texto editado em: 26/08/2023
+O uso de linux na vida de alguém nos dias de hoje é inevitável. Por ser uma tecnologia flexível, podemos encontrá-la em diversos dispositivos e ambientes, como em computadores pessoais, setor onde sistemas baseados no pinguim tem ganhado cada vez mais destaque.
+Mesmo que fatores como o fácil acesso a conteúdos introdutórios na internet e diversos computadores que possuem o pinguim como sistema nativo vem incentivando novos usuários a usarem e conhecerem mais sobre a tecnologia, ainda existe um preconceito por conta de seu passado.</description>
+    </item>
+    
+  </channel>
+</rss>
