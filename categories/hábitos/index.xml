@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hábitos on thenzolima</title>
+    
+    
+    
     <link>https://jardim.thenzolima.com.br/categories/h%C3%A1bitos/</link>
     <description>Recent content in Hábitos on thenzolima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jardim.thenzolima.com.br/categories/h%C3%A1bitos/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jardim.thenzolima.com.br/categories/h%C3%A1bitos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Destaque o necessário.</title>
       <link>https://jardim.thenzolima.com.br/posts/destaque/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/destaque/</guid>
-      <description>Li bastante durante a pandemia, mas com a volta das minhas aulas presenciais, passei por uma ressaca literária. Felizmente, tenho colocado o hábito de ler de volta na minha vida.
-Recentemente terminei a trilogia de livros sobre criatividade do Austin Kleon, é uma coleção cheia de dicas e insights. Qualquer pessoa deveria ler, sendo do “meio criativo” ou não. Afinal, somos todos criativos.
-Junto com o hábito, comecei uma prática que me fez aproveitar mais a leitura, e achei que daria um artigo sobre — mesmo não sendo algo inovador ou revolucionário.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Li bastante durante a pandemia, mas com a volta das minhas aulas presenciais, passei por uma ressaca literária. Felizmente, tenho colocado o hábito de ler de volta na minha vida.
+
+Dificilmente alguém lembra de tudo que já leu. Por isso é importante destacarmos o que realmente importa, ou o que soou interessante. E marcações é uma ótima maneira de fazer isso.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -24,9 +42,18 @@ Junto com o hábito, comecei uma prática que me fez aproveitar mais a leitura, 
       <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/tenha-um-diario/</guid>
-      <description>Gostando ou não de escrever, ter um diário é um dos melhores hábitos que alguém pode ter para a sua vida.
-Esses dias lembrei que em 2019, eu tinha uma página no Facebook que servia como um diário, lá eu escrevia como tinha sido o meu dia (grande parte das anotações era sobre o meu namoro da época).
-E eu adorava fazer isso! Mantive ele por alguns meses, o que gerou várias publicações, mas poucas visualizações (ainda bem).</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Gostando ou não de escrever, ter um diário é um dos melhores hábitos que alguém pode ter para a sua vida. 
+          
+        
+        </description>
     </item>
     
   </channel>

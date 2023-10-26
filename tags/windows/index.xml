@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on thenzolima</title>
+    
+    
+    
     <link>https://jardim.thenzolima.com.br/tags/windows/</link>
     <description>Recent content in Windows on thenzolima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jardim.thenzolima.com.br/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jardim.thenzolima.com.br/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Atualmente, o Windows é um bom sistema?</title>
       <link>https://jardim.thenzolima.com.br/posts/an%C3%A1lise-windows/</link>
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/an%C3%A1lise-windows/</guid>
-      <description>Texto editado em: 26/08/2023
-Uma amiga que usa Ubuntu já comentou que às vezes tem gatilhos de migrar para o Windows, mas não soube explicar o motivo. E eu já tive esse mesmo sentimento.
-No ano passado, fui para o sistema da Microsoft pelo menos umas três vezes. Apesar do sentimento de nostalgia, sempre acontecia o mesmo: Eu acabava voltando para alguma distro em menos de uma semana ou até no mesmo dia.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Uma amiga que usa Ubuntu já comentou que às vezes tem gatilhos de migrar para o Windows, mas não soube explicar o motivo. E eu já tive esse mesmo sentimento.
+
+No ano passado, fui para o sistema da Microsoft pelo menos umas três vezes. Apesar do sentimento de nostalgia, sempre acontecia o mesmo: Eu acabava voltando para alguma distro em menos de uma semana ou até no mesmo dia.
+
+A ficha logo caia que eu não precisava do Windows, ou que o Linux não estava mais me satisfazendo, era apenas meu lado distro-hopper atacando.
+
+Então decidi me desafiar a usar o sistema da Microsoft como minha ferramenta principal de trabalho e uso geral.
+          
+        
+        </description>
     </item>
     
   </channel>

@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Escrita on thenzolima</title>
+    
+    
+    
     <link>https://jardim.thenzolima.com.br/tags/escrita/</link>
     <description>Recent content in Escrita on thenzolima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jardim.thenzolima.com.br/tags/escrita/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Jun 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jardim.thenzolima.com.br/tags/escrita/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Tenha um diário (sério).</title>
       <link>https://jardim.thenzolima.com.br/posts/tenha-um-diario/</link>
       <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/tenha-um-diario/</guid>
-      <description>Gostando ou não de escrever, ter um diário é um dos melhores hábitos que alguém pode ter para a sua vida.
-Esses dias lembrei que em 2019, eu tinha uma página no Facebook que servia como um diário, lá eu escrevia como tinha sido o meu dia (grande parte das anotações era sobre o meu namoro da época).
-E eu adorava fazer isso! Mantive ele por alguns meses, o que gerou várias publicações, mas poucas visualizações (ainda bem).</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Gostando ou não de escrever, ter um diário é um dos melhores hábitos que alguém pode ter para a sua vida. 
+          
+        
+        </description>
     </item>
     
   </channel>

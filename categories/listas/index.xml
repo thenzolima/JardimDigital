@@ -1,20 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Listas on thenzolima</title>
+    
+    
+    
     <link>https://jardim.thenzolima.com.br/categories/listas/</link>
     <description>Recent content in Listas on thenzolima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jardim.thenzolima.com.br/categories/listas/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jardim.thenzolima.com.br/categories/listas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Aplicativos que uso para me organizar.</title>
       <link>https://jardim.thenzolima.com.br/posts/apps-que-eu-uso/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/apps-que-eu-uso/</guid>
-      <description>Faz um tempo que estou com a ideia de dedicar um texto para falar sobre os apps de organização que eu uso. Para mim, esse é um tópico bastante interessante e sempre acabo tocando no assunto enquanto faço os artigos, mas nunca me aprofundo para não fugir do tema principal.
-Esse tipo de conteúdo é bastante presente nas redes sociais, e o Notion acaba sendo o destaque entre os criadores de conteúdo.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Faz um tempo que estou com a ideia de dedicar um texto para falar sobre os apps de organização que eu uso. Para mim, esse é um tópico bastante interessante e sempre acabo tocando no assunto enquanto faço os artigos, mas nunca me aprofundo para não fugir do tema principal.
+
+Esse tipo de conteúdo é bastante presente nas redes sociais, e o Notion acaba sendo o destaque entre os criadores de conteúdo. Apesar de ser uma ótima ferramenta, deixei de usá-lo já faz um tempo (e irei explicar o motivo aqui).
+          
+        
+        </description>
     </item>
     
   </channel>

@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Análise on thenzolima</title>
+    
+    
+    
     <link>https://jardim.thenzolima.com.br/tags/an%C3%A1lise/</link>
     <description>Recent content in Análise on thenzolima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jardim.thenzolima.com.br/tags/an%C3%A1lise/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jardim.thenzolima.com.br/tags/an%C3%A1lise/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Trocando de celular.</title>
       <link>https://jardim.thenzolima.com.br/posts/trocando-de-celular/</link>
-      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/trocando-de-celular/</guid>
-      <description>Sempre estamos cercados por lançamento de smartphones, o que acaba sendo bastante atrativo, mesmo quando seu celular atual possua grande parte das funções do dispositivo que você vê nos anúncios.
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Sempre estamos cercados por lançamento de smartphones, o que acaba sendo bastante atrativo, mesmo quando seu celular atual possua grande parte das funções do dispositivo que você vê nos anúncios.
+
 Muitos diriam que esse sentimento acontece principalmente nas pessoas que são entusiastas na área, só que eu discordo. O fator conhecimento não é o principal motivo que causa o interesse, e sim o quesito novidade.
-Um leigo e um conhecedor de carros podem olhar para um anúncio de um novo modelo automotivo da mesma maneira, mesmo que não seja por motivos iguais.</description>
+          
+        
+        </description>
     </item>
     
     <item>
@@ -24,9 +42,24 @@ Um leigo e um conhecedor de carros podem olhar para um anúncio de um novo model
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/an%C3%A1lise-windows/</guid>
-      <description>Texto editado em: 26/08/2023
-Uma amiga que usa Ubuntu já comentou que às vezes tem gatilhos de migrar para o Windows, mas não soube explicar o motivo. E eu já tive esse mesmo sentimento.
-No ano passado, fui para o sistema da Microsoft pelo menos umas três vezes. Apesar do sentimento de nostalgia, sempre acontecia o mesmo: Eu acabava voltando para alguma distro em menos de uma semana ou até no mesmo dia.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Uma amiga que usa Ubuntu já comentou que às vezes tem gatilhos de migrar para o Windows, mas não soube explicar o motivo. E eu já tive esse mesmo sentimento.
+
+No ano passado, fui para o sistema da Microsoft pelo menos umas três vezes. Apesar do sentimento de nostalgia, sempre acontecia o mesmo: Eu acabava voltando para alguma distro em menos de uma semana ou até no mesmo dia.
+
+A ficha logo caia que eu não precisava do Windows, ou que o Linux não estava mais me satisfazendo, era apenas meu lado distro-hopper atacando.
+
+Então decidi me desafiar a usar o sistema da Microsoft como minha ferramenta principal de trabalho e uso geral.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -35,9 +68,22 @@ No ano passado, fui para o sistema da Microsoft pelo menos umas três vezes. Ape
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/minha-experiencia-linux/</guid>
-      <description>Texto editado em: 26/08/2023
-O uso de linux na vida de alguém nos dias de hoje é inevitável. Por ser uma tecnologia flexível, podemos encontrá-la em diversos dispositivos e ambientes, como em computadores pessoais, setor onde sistemas baseados no pinguim tem ganhado cada vez mais destaque.
-Mesmo que fatores como o fácil acesso a conteúdos introdutórios na internet e diversos computadores que possuem o pinguim como sistema nativo vem incentivando novos usuários a usarem e conhecerem mais sobre a tecnologia, ainda existe um preconceito por conta de seu passado.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          O uso de linux na vida de alguém nos dias de hoje é inevitável. Por ser uma tecnologia flexível, podemos encontrá-la em diversos dispositivos e ambientes, como em computadores pessoais, setor onde sistemas baseados no pinguim tem ganhado cada vez mais destaque.
+
+Mesmo que fatores como o fácil acesso a conteúdos introdutórios na internet e diversos computadores que possuem o pinguim como sistema nativo vem incentivando novos usuários a usarem e conhecerem mais sobre a tecnologia, ainda existe um preconceito por conta de seu passado.
+
+Meu objetivo com este artigo é além de contar um pouco sobre como foi a minha experiência com sistemas linux, trazer algumas dicas que pode lhe trazer uma jornada mais tranquila no mundo linux. 
+          
+        
+        </description>
     </item>
     
   </channel>

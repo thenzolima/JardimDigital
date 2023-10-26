@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on thenzolima</title>
+    
+    
+    
     <link>https://jardim.thenzolima.com.br/posts/</link>
     <description>Recent content in Posts on thenzolima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jardim.thenzolima.com.br/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jardim.thenzolima.com.br/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Trocando de celular.</title>
       <link>https://jardim.thenzolima.com.br/posts/trocando-de-celular/</link>
-      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/trocando-de-celular/</guid>
-      <description>Sempre estamos cercados por lançamento de smartphones, o que acaba sendo bastante atrativo, mesmo quando seu celular atual possua grande parte das funções do dispositivo que você vê nos anúncios.
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Sempre estamos cercados por lançamento de smartphones, o que acaba sendo bastante atrativo, mesmo quando seu celular atual possua grande parte das funções do dispositivo que você vê nos anúncios.
+
 Muitos diriam que esse sentimento acontece principalmente nas pessoas que são entusiastas na área, só que eu discordo. O fator conhecimento não é o principal motivo que causa o interesse, e sim o quesito novidade.
-Um leigo e um conhecedor de carros podem olhar para um anúncio de um novo modelo automotivo da mesma maneira, mesmo que não seja por motivos iguais.</description>
+          
+        
+        </description>
     </item>
     
     <item>
@@ -24,9 +42,20 @@ Um leigo e um conhecedor de carros podem olhar para um anúncio de um novo model
       <pubDate>Mon, 28 Aug 2023 15:09:14 -0300</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/use-as-ferias/</guid>
-      <description>Agosto não é um mês muito comum de se tirar férias, mas tive duas semanas de recesso na minha vida estudantil. E acabei pensando em algo nesse período.
-O título desse texto pode soar óbvio para algumas pessoas, mas quem tem projetos pessoais, sempre procura uma brecha em sua rotina para trabalhar neles. E as férias são usadas como chance de ouro para isso.
-Todavia, é importante não deixarmos de lado o objetivo base de férias: O descanso.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Agosto não é um mês muito comum de se tirar férias, mas tive duas semanas de recesso na minha vida estudantil. E acabei pensando em algo nesse período.
+
+O título desse texto pode soar óbvio para algumas pessoas, mas quem tem projetos pessoais, sempre procura uma brecha em sua rotina para trabalhar neles. E as férias são usadas como chance de ouro para isso. Todavia, é importante não deixarmos de lado o objetivo base de férias: O descanso.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -35,9 +64,20 @@ Todavia, é importante não deixarmos de lado o objetivo base de férias: O desc
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/destaque/</guid>
-      <description>Li bastante durante a pandemia, mas com a volta das minhas aulas presenciais, passei por uma ressaca literária. Felizmente, tenho colocado o hábito de ler de volta na minha vida.
-Recentemente terminei a trilogia de livros sobre criatividade do Austin Kleon, é uma coleção cheia de dicas e insights. Qualquer pessoa deveria ler, sendo do “meio criativo” ou não. Afinal, somos todos criativos.
-Junto com o hábito, comecei uma prática que me fez aproveitar mais a leitura, e achei que daria um artigo sobre — mesmo não sendo algo inovador ou revolucionário.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Li bastante durante a pandemia, mas com a volta das minhas aulas presenciais, passei por uma ressaca literária. Felizmente, tenho colocado o hábito de ler de volta na minha vida.
+
+Dificilmente alguém lembra de tudo que já leu. Por isso é importante destacarmos o que realmente importa, ou o que soou interessante. E marcações é uma ótima maneira de fazer isso.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -46,9 +86,18 @@ Junto com o hábito, comecei uma prática que me fez aproveitar mais a leitura, 
       <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/tenha-um-diario/</guid>
-      <description>Gostando ou não de escrever, ter um diário é um dos melhores hábitos que alguém pode ter para a sua vida.
-Esses dias lembrei que em 2019, eu tinha uma página no Facebook que servia como um diário, lá eu escrevia como tinha sido o meu dia (grande parte das anotações era sobre o meu namoro da época).
-E eu adorava fazer isso! Mantive ele por alguns meses, o que gerou várias publicações, mas poucas visualizações (ainda bem).</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Gostando ou não de escrever, ter um diário é um dos melhores hábitos que alguém pode ter para a sua vida. 
+          
+        
+        </description>
     </item>
     
     <item>
@@ -57,8 +106,18 @@ E eu adorava fazer isso! Mantive ele por alguns meses, o que gerou várias publi
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/dumpphone/</guid>
-      <description>Todos usam celular, mas nos dias de hoje é comum acontecer o contrário, o celular usar você, com feeds que se adaptam ao seu gosto para nos prender nas redes sociais, fazendo com que seja consumido mais conteúdos fúteis (em grande parte) que serão esquecidos logo em seguida, quando outra publicação é mostrada.
-Sei que esse tema é bastante debatido e grande parte das pessoas têm consciência disso, apesar de não conseguirem “se livrar” da ação involuntária de abrir o Instagram, por exemplo, e usar até se perguntar do porquê de estar fazendo isso.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Todos usam celular, mas nos dias de hoje é comum acontecer o contrário, **o celular usar você**, com feeds que se adaptam ao seu gosto para nos prender nas redes sociais, fazendo com que seja consumido mais conteúdos fúteis (em grande parte) que serão esquecidos logo em seguida, quando outra publicação é mostrada.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -67,8 +126,20 @@ Sei que esse tema é bastante debatido e grande parte das pessoas têm consciên
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/apps-que-eu-uso/</guid>
-      <description>Faz um tempo que estou com a ideia de dedicar um texto para falar sobre os apps de organização que eu uso. Para mim, esse é um tópico bastante interessante e sempre acabo tocando no assunto enquanto faço os artigos, mas nunca me aprofundo para não fugir do tema principal.
-Esse tipo de conteúdo é bastante presente nas redes sociais, e o Notion acaba sendo o destaque entre os criadores de conteúdo.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Faz um tempo que estou com a ideia de dedicar um texto para falar sobre os apps de organização que eu uso. Para mim, esse é um tópico bastante interessante e sempre acabo tocando no assunto enquanto faço os artigos, mas nunca me aprofundo para não fugir do tema principal.
+
+Esse tipo de conteúdo é bastante presente nas redes sociais, e o Notion acaba sendo o destaque entre os criadores de conteúdo. Apesar de ser uma ótima ferramenta, deixei de usá-lo já faz um tempo (e irei explicar o motivo aqui).
+          
+        
+        </description>
     </item>
     
     <item>
@@ -77,9 +148,24 @@ Esse tipo de conteúdo é bastante presente nas redes sociais, e o Notion acaba 
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/an%C3%A1lise-windows/</guid>
-      <description>Texto editado em: 26/08/2023
-Uma amiga que usa Ubuntu já comentou que às vezes tem gatilhos de migrar para o Windows, mas não soube explicar o motivo. E eu já tive esse mesmo sentimento.
-No ano passado, fui para o sistema da Microsoft pelo menos umas três vezes. Apesar do sentimento de nostalgia, sempre acontecia o mesmo: Eu acabava voltando para alguma distro em menos de uma semana ou até no mesmo dia.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Uma amiga que usa Ubuntu já comentou que às vezes tem gatilhos de migrar para o Windows, mas não soube explicar o motivo. E eu já tive esse mesmo sentimento.
+
+No ano passado, fui para o sistema da Microsoft pelo menos umas três vezes. Apesar do sentimento de nostalgia, sempre acontecia o mesmo: Eu acabava voltando para alguma distro em menos de uma semana ou até no mesmo dia.
+
+A ficha logo caia que eu não precisava do Windows, ou que o Linux não estava mais me satisfazendo, era apenas meu lado distro-hopper atacando.
+
+Então decidi me desafiar a usar o sistema da Microsoft como minha ferramenta principal de trabalho e uso geral.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -88,9 +174,22 @@ No ano passado, fui para o sistema da Microsoft pelo menos umas três vezes. Ape
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://jardim.thenzolima.com.br/posts/minha-experiencia-linux/</guid>
-      <description>Texto editado em: 26/08/2023
-O uso de linux na vida de alguém nos dias de hoje é inevitável. Por ser uma tecnologia flexível, podemos encontrá-la em diversos dispositivos e ambientes, como em computadores pessoais, setor onde sistemas baseados no pinguim tem ganhado cada vez mais destaque.
-Mesmo que fatores como o fácil acesso a conteúdos introdutórios na internet e diversos computadores que possuem o pinguim como sistema nativo vem incentivando novos usuários a usarem e conhecerem mais sobre a tecnologia, ainda existe um preconceito por conta de seu passado.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          O uso de linux na vida de alguém nos dias de hoje é inevitável. Por ser uma tecnologia flexível, podemos encontrá-la em diversos dispositivos e ambientes, como em computadores pessoais, setor onde sistemas baseados no pinguim tem ganhado cada vez mais destaque.
+
+Mesmo que fatores como o fácil acesso a conteúdos introdutórios na internet e diversos computadores que possuem o pinguim como sistema nativo vem incentivando novos usuários a usarem e conhecerem mais sobre a tecnologia, ainda existe um preconceito por conta de seu passado.
+
+Meu objetivo com este artigo é além de contar um pouco sobre como foi a minha experiência com sistemas linux, trazer algumas dicas que pode lhe trazer uma jornada mais tranquila no mundo linux. 
+          
+        
+        </description>
     </item>
     
   </channel>
