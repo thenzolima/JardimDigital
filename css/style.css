@@ -723,10 +723,11 @@ h4:hover a {
     .footer .copyright--user {
       margin: auto;
       text-align: center; }
-    .footer .copyright > *:not(:last-child) {
-      border-right: 1px solid;
-      padding-right: 10px;
-      margin-right: 10px; }
+      .footer .copyright > *:not(:last-child) {
+        border-right: 1px solid;
+        padding-right: 10px;
+        margin-right: 10px;
+      }      
       @media ((max-width: 900px)) {
         .footer .copyright > *:not(:last-child) {
           border: none;
