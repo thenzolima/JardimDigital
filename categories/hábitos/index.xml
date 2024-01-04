@@ -1,57 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hábitos on thenzolima</title>
-    
-    
-    
     <link>https://jardim.thenzolima.com.br/categories/h%C3%A1bitos/</link>
     <description>Recent content in Hábitos on thenzolima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jardim.thenzolima.com.br/categories/h%C3%A1bitos/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jardim.thenzolima.com.br/categories/h%C3%A1bitos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Destaque o necessário.</title>
       <link>https://jardim.thenzolima.com.br/posts/destaque/</link>
       <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
-      
+      <author>Enzo Lima</author>
       <guid>https://jardim.thenzolima.com.br/posts/destaque/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Li bastante durante a pandemia, mas com a volta das minhas aulas presenciais, passei por uma ressaca literária. Felizmente, tenho colocado o hábito de ler de volta na minha vida.
-          
-        
-        </description>
+      <description>Li bastante durante a pandemia, mas com a volta das minhas aulas presenciais, passei por uma ressaca literária. Felizmente, tenho colocado o hábito de ler de volta na minha vida.
+Recentemente terminei a trilogia de livros sobre criatividade do Austin Kleon, é uma coleção cheia de dicas e insights. Qualquer pessoa deveria ler, sendo do “meio criativo” ou não. Afinal, somos todos criativos.
+Junto com o hábito, comecei uma prática que me fez aproveitar mais a leitura, e achei que daria um artigo sobre — mesmo não sendo algo inovador ou revolucionário.</description>
+      <content:encoded><![CDATA[<p>Li bastante durante a pandemia, mas com a volta das minhas aulas presenciais, passei por uma ressaca literária. Felizmente, tenho colocado o hábito de ler de volta na minha vida.</p>
+<p>Recentemente terminei a trilogia de livros sobre criatividade do <a href="https://austinkleon.com/books/">Austin Kleon</a>, é uma coleção cheia de dicas e insights. Qualquer pessoa deveria ler, sendo do “meio criativo” ou não. Afinal, somos todos criativos.</p>
+<p>Junto com o hábito, comecei uma prática que me fez aproveitar mais a leitura, e achei que daria um artigo sobre — mesmo não sendo algo inovador ou revolucionário.</p>
+<p>Dificilmente alguém lembra de tudo que já leu. Por isso é importante destacarmos o que realmente importa, ou o que soou interessante. E marcações é uma ótima maneira de fazer isso.</p>
+<p>Tenho usado o <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.books">Google Play Books</a> para ler, pois além de ser uma loja de livros digitais, ele também serve de leitor e biblioteca para arquivos alternativos que não vêem da própria loja (recomendo o formato .epub, por ser bastante flexível, é bastante semelhante ao .mobi do Kindle).</p>
+<p>No app, podemos fazer marcações em 4 cores: Amarelo, Verde, Azul e Laranja. Então acabei criando uma utilidade para as três primeiras:</p>
+<ul>
+<li>O amarelo serve para partes importantes do livro;</li>
+<li>O verde serve para citações que não sejam do autor que achei úteis;</li>
+<li>O azul serve para indicar algo que eu gostaria de pesquisar mais sobre (uma pessoa, banda, revista etc).</li>
+</ul>
+<p>Caso não queira usar o Play Books, recomendo o <a href="https://play.google.com/store/apps/details?id=com.faultexception.reader">Lithium</a> como alternativa. Sua interface é intuitiva e tem uma variedade maior de cores.</p>
+<p>Simples assim. Fazer essas marcações durante a leitura me ajuda caso eu queira consultá-lo futuramente. Ao invés de ler uma página, capítulo ou o livro inteiro, basta eu navegar pelas minhas marcações.</p>
+<p>Para quem prefere livros físicos, essa técnica também pode ser utilizada. Caso não queira usar marca-textos, marcadores de páginas adesivos podem ser um bom substituto.</p>
+<p><img src="img/raissa.webp" alt="livros"></p>
+<p>E isso não deve só se limitar a livros. Seja de uma matéria ou algo que você esteja pesquisando, <strong>destaque o necessário</strong>.</p>
+<p>Usar cores pode não ser tão flexível para certos casos. Então vou apresentar duas alternativas que podem ser utilizadas em situações mais gerais:</p>
+<p>O Tiago Forte ensina um método de marcação chamado <a href="https://youtu.be/73s6Dgg3NZ0">“Progressive Summarization”</a>. Onde ele mostra como separar o essencial em três camadas, para melhor visualização e entendimento, seja de algum livro ou texto da internet.</p>
+<p>Em 4 passos, o Pinho <a href="https://youtu.be/NbzWuhwWJJM">ensina a como estudar</a> de uma forma eficaz, constante e que esteja sempre provocando nossa curiosidade para irmos além.</p>
+<hr>
+<p>Fico muito feliz caso tenha chegado até aqui! Meu último post acabou tendo uma boa visibilidade e gostaria de te convidar a ler meus outros textos caso não tenha lido ainda.</p>
+<p>Quer entrar em contato? Me mande um email: <a href="mailto:contato@thenzolima.com.br">contato@thenzolima.com.br</a></p>
+]]></content:encoded>
     </item>
     
     <item>
       <title>Tenha um diário (sério).</title>
       <link>https://jardim.thenzolima.com.br/posts/tenha-um-diario/</link>
       <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
-      
+      <author>Enzo Lima</author>
       <guid>https://jardim.thenzolima.com.br/posts/tenha-um-diario/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Gostando ou não de escrever, ter um diário é um dos melhores hábitos que alguém pode ter para a sua vida. Esses dias lembrei que em 2019, eu tinha uma página no Facebook que servia como um diário, lá eu escrevia como tinha sido o meu dia.
-          
-        
-        </description>
+      <description>Gostando ou não de escrever, ter um diário é um dos melhores hábitos que alguém pode ter para a sua vida.
+Esses dias lembrei que em 2019, eu tinha uma página no Facebook que servia como um diário, lá eu escrevia como tinha sido o meu dia (grande parte das anotações era sobre o meu namoro da época).
+E eu adorava fazer isso! Mantive ele por alguns meses, o que gerou várias publicações, mas poucas visualizações (ainda bem).</description>
+      <content:encoded><![CDATA[<p>Gostando ou não de escrever, ter um diário é um dos melhores hábitos que alguém pode ter para a sua vida.</p>
+<p>Esses dias lembrei que em 2019, eu tinha uma página no Facebook que servia como um diário, lá eu escrevia como tinha sido o meu dia (grande parte das anotações era sobre o meu namoro da época).</p>
+<p>E eu adorava fazer isso! Mantive ele por alguns meses, o que gerou várias publicações, mas poucas visualizações (ainda bem). Não lembro ao certo o motivo de ter parado, creio que foi falta de tempo para fazer os posts.</p>
+<p>Durante a pandemia, essa vontade de documentar o que acontece na minha vida, seja coisas grandiosas ou mínimos detalhes que achei interessantes, voltou a minha cabeça.</p>
+<p>Então, comprei um caderno com folhas pontilhadas com esse intuito. A experiência foi interessante, só que em grande parte desconfortável.</p>
+<p>Por eu nunca ter escrito em um caderno do tipo, acabei não me adaptando. Esse investimento falho acabou me desmotivando do hábito.</p>
+<p>Um ano depois escrevi <a href="https://medium.com/@thenzolima/minha-experi%C3%AAncia-com-linux-no-desktop-at%C3%A9-agora-f259a9bad235">meu primeiro artigo</a>. Foi uma sensação tão gratificante vê-lo pronto e publicado. Então, percebi o quanto o hábito da escrita poderia mudar a minha vida <strong>(spoiler: realmente mudou)</strong>.</p>
+<p>Este ano coloquei como meta pessoal escrever pelo menos 12 artigos, para ficar a média de um artigo por mês (estou bem atrasado, mas até dezembro fecho as contas).</p>
+<p>Isso fez com que aquele velho desejo de registrar a minha vida voltasse. E desde do final de maio, tenho escrito sobre os dias pacatos, os divertidos e os tristes.</p>
+<p>Faço as anotações em markdown, pela praticidade e possibilidade de backup. Uso o <a href="https://syncthing.net/">syncthing</a> para sincronizá-las entre o meu celular e notebook, fazendo com seja algo bastante flexível para mim.</p>
+<p>Eu poderia adotar o método físico, é bastante charmoso e funcional, no entanto, sinto que consigo me organizar melhor escrevendo digitalmente, principalmente por eu ser mais rápido desta maneira.</p>
+<p>Estou a quase um mês documentando o que acontece comigo, dia por dia. E desde então, escrevi mais de <strong>35 mil caracteres</strong>, e isso vem me ajudando de diversas maneiras.</p>
+<p>O hábito de escrever diariamente vem tornando a minha produção textual mais <strong>criativa, prática e objetiva.</strong> Gosto de escrever sobre qualquer coisa, e nem tudo vale a pena ser publicado, então ter um espaço privado onde eu possa me expressar livremente, me faz bem.</p>
+<p>Quando estou escrevendo, pode ser um artigo ou uma nota do meu diário, é como se os mínimos detalhes se tornassem mais nítidos. Como se minhas conversas com pessoas próximas fossem valiosas. É algo que ainda não sei explicar.</p>
+<p><strong>Além disso, este hobbie vem me trazendo novas ideias e metas.</strong></p>
+<p>Enfim, este diário é com certeza uma das coisas mais importantes que me aconteceu neste ano, algo tão simples e ao mesmo tempo tão simbólico.</p>
+<p>Recomendo esse hábito para qualquer um. Tire um tempo no final do seu dia, reflita sobre o que aconteceu e coloque tudo para fora, seja em um papel ou no seu bloco de notas. O que importa é fazer!</p>
+<blockquote>
+<p>“Nunca viajo sem o meu diário. É preciso ter sempre algo extraordinário para ler no comboio.” — Oscar Wilde</p>
+</blockquote>
+<hr>
+<p>Vou ficando por aqui, espero que tenha gostado do conteúdo.</p>
+<p>Espero que tenha curtido a leitura. Não deixe de compartilhar para alguém próximo que pode se beneficiar lendo isso.</p>
+<p>Quer entrar em contato comigo? <a href="mailto:contato@thenzolima.com.br">contato@thenzolima.com.br</a></p>
+]]></content:encoded>
     </item>
     
   </channel>

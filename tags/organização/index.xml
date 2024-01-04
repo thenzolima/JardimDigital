@@ -1,37 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Organização on thenzolima</title>
-    
-    
-    
     <link>https://jardim.thenzolima.com.br/tags/organiza%C3%A7%C3%A3o/</link>
     <description>Recent content in Organização on thenzolima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jardim.thenzolima.com.br/tags/organiza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jardim.thenzolima.com.br/tags/organiza%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aplicativos que uso para me organizar.</title>
       <link>https://jardim.thenzolima.com.br/posts/apps-que-eu-uso/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      
+      <author>Enzo Lima</author>
       <guid>https://jardim.thenzolima.com.br/posts/apps-que-eu-uso/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Faz um tempo que estou com a ideia de dedicar um texto para falar sobre os apps de organização que eu uso. Para mim, esse é um tópico bastante interessante e sempre acabo tocando no assunto enquanto faço os artigos, mas nunca me aprofundo para não fugir do tema principal.
-          
-        
-        </description>
+      <description>Faz um tempo que estou com a ideia de dedicar um texto para falar sobre os apps de organização que eu uso. Para mim, esse é um tópico bastante interessante e sempre acabo tocando no assunto enquanto faço os artigos, mas nunca me aprofundo para não fugir do tema principal.
+Esse tipo de conteúdo é bastante presente nas redes sociais, e o Notion acaba sendo o destaque entre os criadores de conteúdo.</description>
+      <content:encoded><![CDATA[<p>Faz um tempo que estou com a ideia de dedicar um texto para falar sobre os apps de organização que eu uso. Para mim, esse é um tópico bastante interessante e sempre acabo tocando no assunto enquanto faço os artigos, mas nunca me aprofundo para não fugir do tema principal.</p>
+<p>Esse tipo de conteúdo é bastante presente nas redes sociais, e o Notion acaba sendo o destaque entre os criadores de conteúdo. Apesar de ser uma ótima ferramenta, deixei de usá-lo já faz um tempo (e irei explicar o motivo aqui).</p>
+<p>Não tenho me apegado a softwares, já que busco sempre testar outras opções. Então pode ser que daqui a um tempo essa lista não faça mais sentido e eu esteja usando softwares totalmente diferentes.</p>
+<p>Para mim, esse tema acaba sendo bastante difícil de escrever justamente por isso. Além da falta de tempo, o outro motivo da demora dessa publicação é essa questão de eu sempre trocar minhas ferramentas, e busco ser transparente nos meus textos.</p>
+<p>Dito isso, vamos começar!</p>
+<hr>
+<h2 id="obsidian">Obsidian</h2>
+<p>O <a href="https://obsidian.md/">Obsidian</a> traz a proposta de ser <strong>o segundo cérebro do usuário</strong>, ele é um software de anotações baseado em <em>markdown</em> que vem ganhando cada vez mais destaque. O programa permite que você faça ligações entre suas anotações e exiba isso graficamente, trazendo opções de agrupamento e filtros, com o intuito de inspirar o usuário enquanto escreve.</p>
+<p><img src="img/obsidian.png" alt="obsidian"></p>
+<p>Tenho usado o software para produzir meus artigos e estudos, sua interface personalizável junto a função de ligações me fez aderi-lo, além de uma ótima versão mobile onde não precisa de internet para funcionar.</p>
+<p>Entretanto, a opção de sincronização entre dispositivos está disponível apenas por uma assinatura paga (e em dólar), o que acaba não sendo atrativo para mim.</p>
+<p>Mas como gambiarra a gente aceita, muitos usuários usam programas que permitem a sincronização de pastas entre dispositivos, fazendo com que os arquivos do Obsidian sejam sincronizados de “forma caseira” (recomendo o <a href="https://syncthing.net/">syncthing</a> para isso por ser gratuito e open source).</p>
+<p>Apesar da possibilidade ser bem viável, não pretendo aplicar no meu workflow. Mesmo sem sincronia, não deixa de ser uma ótima recomendação para quem estiver interessado em se organizar de uma maneira mais poderosa.</p>
+<h2 id="simplenote">Simplenote</h2>
+<p>O <a href="https://simplenote.com/">Simplenote</a> é um aplicativo <em>FOSS</em> (Free Open Source Software) de anotações com suporte a <em>markdown</em>. Comecei a usar ele recentemente para anotações diárias, e provavelmente em um futuro próximo ele irá substituir o Obsidian no meu leque de softwares.</p>
+<p><img src="img/simplenote.png" alt="simplenote"></p>
+<p>Digo isso pois a sincronia entre dispositivos no app é totalmente gratuita! (e bastante funcional). Então ele pode quebrar essa barreira que eu tenho em relação ao Obsidian.</p>
+<p>Outra função que achei interessantíssima é a de você transformar sua anotação em um link onde qualquer pessoa pode acessar. Isso pode ser bastante útil para mim em algum momento.</p>
+<p>Então, recomendo o Simplenote para quem busca produtividade em relação ao gerenciamento de suas anotações.</p>
+<h2 id="todoist">Todoist</h2>
+<p>Seu nome já diz tudo, é um software de organização baseado em todo lists, e nele é possível: Categorizar e filtrar as tarefas por tópicos, criar subtarefas e escolher se o tópico será distribuído em lista ou tabelas.</p>
+<p><img src="img/todoist.png" alt="todoist"></p>
+<p>Antes eu usava o <a href="https://todoist.com/">Todoist</a> para organizar meus compromissos e finanças, mas atualmente uso apenas como agenda escolar. Mesmo tendo aplicativos focados nisso, por ser multi-device e ter uma organização de datas bastante prática, me fez optar por ele (além de ter um widget mostrando tudo isso que é muito útil).</p>
+<p>O app é gratuito, mas possui assinaturas pagas para equipes ou alguém que esteja precisando de algo a mais. Nessas assinaturas, além do aumento de projetos e filtros que podem ser criados, lhe dá a possibilidade de fazer o upload de arquivos até 100mb e colocar mais de 20 colaboradores em apenas um projeto.</p>
+<p>E durante a pesquisa para o artigo descobri que no próprio site do todoist tem <a href="https://todoist.com/pt-BR/templates">modelos de organização</a>, isso pode tanto guiar o usuário quanto dar ideias do que pode ser feito com o app.</p>
+<h2 id="paisa">Paisa</h2>
+<p>Esse app vem sendo um dos melhores softwares que já usei! Fazia um tempo que estava em busca de um bom gerenciador de despesas, mas todos eram nada intuitivos e recheados de propagandas.</p>
+<p>Foi então que achei o <a href="https://play.google.com/store/apps/details?id=dev.hemanths.paisa&amp;hl=en_US">Paisa</a>, além dele ser open-source, seu diferencial é oferecer as mesmas funcionalidades que os outros apps da categoria, só que de forma gratuita, objetiva, simples, sem propagandas e moderna. O que faz toda diferença.</p>
+<p><img src="img/paisa.png" alt="paisa"></p>
+<p>O Paisa consegue gerenciar o fluxo monetário de várias contas, sendo elas seus cartões ou seu dinheiro físico. Também te permite criar as categorias para os seus gastos e ver seu balanço a partir delas.</p>
+<h2 id="por-que-não-uso-mais-o-notion">Por que não uso mais o Notion</h2>
+<p>Bem, alguém já deve ter se perguntado: Pra que utilizar todos esses softwares se o <a href="https://www.notion.so/">Notion</a> pode cobrir todos esses tópicos e ir além?</p>
+<p><img src="img/notion.webp" alt="notion"></p>
+<p>De fato, o app possui essas funções e acredito que uma organização mais centralizada poderia me trazer benefícios, sem contar que ele possui diversos materiais e dispensa qualquer apresentação por conta de sua popularidade. Mas por certos fatores acabo preferindo os softwares citados acima em suas propostas.</p>
+<p>Usei unicamente o Notion para fins de organização e estudos durante a pandemia, só que com a volta a minha rotina presencial, o software acabou me trazendo algumas desvantagens.</p>
+<p>Uma delas é a versão mobile, onde ele peca bastante. Passo grande parte do meu dia fora de casa, então poder gerenciar tudo pelo celular acaba sendo uma grande vantagem no meu dia. E todos os apps citados anteriormente possuem ótimas versões mobile.</p>
+<p>Além de não ser nada fluido e intuitivo, a dependência com a internet acaba me limitando por eu nem sempre ter uma rede por perto. O aplicativo pode chegar a abrir, mas qualquer alteração feita offline não é salva.</p>
+<p>Mas ainda acho um bom software, suas funções diversas é algo que permite o usuário ser bastante produtivo. Com o estouro das inteligências artificiais, houve a implementação do <a href="https://www.notion.so/product/ai">Notion AI</a>, onde é possível obter pesquisas completas sobre algum tópico com poucos cliques. E achei a ideia muito interessante.</p>
+<h2 id="bônus">Bônus</h2>
+<p>Para finalizar esse texto, gostaria de recomendar mais um app que chamou a minha atenção pelo seu potencial. O <a href="https://play.google.com/store/apps/details?id=com.app.flowlauncher&amp;hl=en_US">Flow Productivity Launcher</a> tem a proposta de ser um launcher minimalista, focado em produtividade.</p>
+<p><img src="img/flow.png" alt="flow"></p>
+<p>O software é consistente e possui funções como o <em>focus mode</em>, diversos utilitários na tela inicial e um sistema <em>pomodoro</em> implementado. Vale a pena experimentar!</p>
+<hr>
+<p>Espero que tenha curtido a leitura. Não deixe de compartilhar para alguém próximo que pode se beneficiar lendo isso.</p>
+<p>Quer entrar em contato? Me mande um email: <a href="mailto:contato@thenzolima.com.br">contato@thenzolima.com.br</a></p>
+]]></content:encoded>
     </item>
     
   </channel>

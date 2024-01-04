@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dicas on thenzolima</title>
-    
-    
-    
     <link>https://jardim.thenzolima.com.br/tags/dicas/</link>
     <description>Recent content in Dicas on thenzolima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jardim.thenzolima.com.br/tags/dicas/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jardim.thenzolima.com.br/tags/dicas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Use as férias para descansar.</title>
       <link>https://jardim.thenzolima.com.br/posts/use-as-ferias/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
+      <author>Enzo Lima</author>
       <guid>https://jardim.thenzolima.com.br/posts/use-as-ferias/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Agosto não é um mês muito comum de se tirar férias, mas tive duas semanas de recesso na minha vida estudantil. E acabei pensando em algo nesse período.
-          
-        
-        </description>
+      <description>Agosto não é um mês muito comum de se tirar férias, mas tive duas semanas de recesso na minha vida estudantil. E acabei pensando em algo nesse período.
+O título desse texto pode soar óbvio para algumas pessoas, mas quem tem projetos pessoais, sempre procura uma brecha em sua rotina para trabalhar neles. E as férias são usadas como chance de ouro para isso.
+Todavia, é importante não deixarmos de lado o objetivo base de férias: O descanso.</description>
+      <content:encoded><![CDATA[<p>Agosto não é um mês muito comum de se tirar férias, mas tive duas semanas de recesso na minha vida estudantil. E acabei pensando em algo nesse período.</p>
+<p>O título desse texto pode soar óbvio para algumas pessoas, mas quem tem projetos pessoais, sempre procura uma brecha em sua rotina para trabalhar neles. E as férias são usadas como chance de ouro para isso.</p>
+<p>Todavia, é importante não deixarmos de lado o objetivo base de férias: O descanso.</p>
+<p>Qualquer pessoa precisa de tempo para sentar e fazer nada. Afinal, somos mais propícios a ter boas ideias nesses momentos.</p>
+<p>Eu dediquei grande parte desse recesso apenas para me distrair, e foi esclarecedor. Com a mente limpa, tive novas ideias e pude prestar mais atenção às coisas que estavam ao meu redor.</p>
+<blockquote>
+<p>&ldquo;Em uma época obcecada por velocidade, desacelerar requer treinamento especial&rdquo; - Austin Kleon</p>
+</blockquote>
+<p>A vida segue um ritmo acelerado. Não devemos desperdiçar as oportunidades que temos para irmos um pouco mais devagar para nos agitarmos mais ainda.</p>
+<p>Com isso, não estamos sendo menos eficientes, pelo contrário, estamos cuidando do que é mais importante no fim das contas - nós mesmos.</p>
+<blockquote>
+<p>&ldquo;Um bom descanso é metade do trabalho&rdquo; - Provérbio Iugoslavo</p>
+</blockquote>
+<hr>
+<p>Espero que tenha curtido a leitura. Não deixe de compartilhar para alguém próximo que pode se beneficiar lendo isso.</p>
+<p>Quer entrar em contato comigo? <a href="mailto:contato@thenzolima.com.br">contato@thenzolima.com.br</a></p>
+]]></content:encoded>
     </item>
     
   </channel>
