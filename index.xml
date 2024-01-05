@@ -535,11 +535,65 @@ Um dos únicos pontos que me incomodou no Zorin é o fato de que edições atuai
     </item>
     
     <item>
-      <title>Uma biblioteca de bons conteúdos.</title>
-      <link>https://jardim.thenzolima.com.br/biblioteca/</link>
+      <title>Livros que li.</title>
+      <link>https://jardim.thenzolima.com.br/lidos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Enzo Lima</author>
-      <guid>https://jardim.thenzolima.com.br/biblioteca/</guid>
+      <guid>https://jardim.thenzolima.com.br/lidos/</guid>
+      <description>2023 Esse foi meu ano de retomada ao mundo dos livros. Apesar de ter lido relativamente pouco, aproveitei bastante os momentos de leitura. Espero ler mais no próximo ano.
+Título Autor Nota Daisy Jones &amp;amp; The Six Taylor Jenkins Reid ★★★½ Siga em Frente Austin Kleon ★★★★½ Roube como um Artista Austin Kleon ★★★★½ O Príncipe Maquiavel ★★★ Mostre seu Trabalho Austin Kleon ★★★★★ Ferreiro do Bosque Maior J. R. R.</description>
+      <content:encoded><![CDATA[<h2 id="2023">2023</h2>
+<p>Esse foi meu ano de retomada ao mundo dos livros. Apesar de ter lido relativamente pouco, aproveitei bastante os momentos de leitura. Espero ler mais no próximo ano.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Título</th>
+<th style="text-align:center">Autor</th>
+<th style="text-align:center">Nota</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Daisy Jones &amp; The Six</td>
+<td style="text-align:center">Taylor Jenkins Reid</td>
+<td style="text-align:center">★★★½</td>
+</tr>
+<tr>
+<td style="text-align:center">Siga em Frente</td>
+<td style="text-align:center">Austin Kleon</td>
+<td style="text-align:center">★★★★½</td>
+</tr>
+<tr>
+<td style="text-align:center">Roube como um Artista</td>
+<td style="text-align:center">Austin Kleon</td>
+<td style="text-align:center">★★★★½</td>
+</tr>
+<tr>
+<td style="text-align:center">O Príncipe</td>
+<td style="text-align:center">Maquiavel</td>
+<td style="text-align:center">★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">Mostre seu Trabalho</td>
+<td style="text-align:center">Austin Kleon</td>
+<td style="text-align:center">★★★★★</td>
+</tr>
+<tr>
+<td style="text-align:center">Ferreiro do Bosque Maior</td>
+<td style="text-align:center">J. R. R. Tolkien</td>
+<td style="text-align:center">★★</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Um acervo de bons conteúdos.</title>
+      <link>https://jardim.thenzolima.com.br/acervo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Enzo Lima</author>
+      <guid>https://jardim.thenzolima.com.br/acervo/</guid>
       <description>Essa página conta com uma lista de artigos, vídeos e repositórios open-sources que eu recomendo. Irei alimentando esse ambiente ao longo do tempo.
 Textos Adeus ao blog. Viva o jardim digital. | Valter Nascimento
 How and Why I Stopped Buying New Laptops | LOW←TECH MAGAZINE
@@ -566,6 +620,9 @@ Por que podcasts brasileiros são piores que os americanos?</description>
 </li>
 <li>
 <p><a href="https://seer.upf.br/index.php/rjd/article/view/5587/3802">A indústria cinematográfica nacional em tempos de ditadura militar: censura x democracia | Aline Dip Toniolo, Marcio Renan Hamel</a></p>
+</li>
+<li>
+<p><a href="https://maggieappleton.com/garden-history">A Brief History &amp; Ethos of the Digital Garden</a></p>
 </li>
 </ul>
 <h3 id="vídeos">Vídeos</h3>
@@ -603,6 +660,9 @@ Por que podcasts brasileiros são piores que os americanos?</description>
 <li>
 <p><a href="https://youtu.be/hUHrEFiktKI?si=lb2o8hV6QGWE-k0R">Masayoshi Takanaka: True Guitar Madness - YouTube</a></p>
 </li>
+<li>
+<p><a href="https://youtu.be/KAjkicwrD4I?si=wlmeGZxidwyTaioI">i memorized 3,141 digits of pi to prove a point - YouTube</a></p>
+</li>
 </ul>
 <h3 id="repositórios">Repositórios</h3>
 <ul>
@@ -613,13 +673,13 @@ Por que podcasts brasileiros são piores que os americanos?</description>
 <p><a href="https://github.com/picocss/pico">picocss/pico: Minimal CSS Framework for semantic HTML | GitHub</a></p>
 </li>
 <li>
-<p><a href="https://github.com/public-apis/public-apis">public-apis/public-apis: A collective list of free APIs | GitHub</a></p>
-</li>
-<li>
 <p><a href="https://github.com/Diolinux/PhotoGIMP">Diolinux/PhotoGIMP: A Patch for GIMP 2.10+ for Photoshop Users | GitHub</a></p>
 </li>
 <li>
-<p><a href="https://github.com/upscayl/upscayl">upscayl/upscayl: Free and Open Source AI Image Upscaler | GitHub</a></p>
+<p><a href="https://github.com/MaggieAppleton/digital-gardeners">MaggieAppleton/digital-gardeners: Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs | Github</a></p>
+</li>
+<li>
+<p><a href="https://github.com/marktext/marktext">marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | GitHub</a></p>
 </li>
 </ul>
 ]]></content:encoded>
