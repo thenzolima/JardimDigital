@@ -535,6 +535,37 @@ Um dos únicos pontos que me incomodou no Zorin é o fato de que edições atuai
     </item>
     
     <item>
+      <title>Agora</title>
+      <link>https://jardim.thenzolima.com.br/agora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Enzo Lima</author>
+      <guid>https://jardim.thenzolima.com.br/agora/</guid>
+      <description>Jan 24 Foi um bom início de ano. Aproveitei o tempo sem aula para viajar, tanto que, quase não estive em casa durante o mês. Isso fez com que eu não tivesse muito tempo de produzir. Felizmente, planejei bastante coisa.
+É uma ideia parecida com o que eu já escrevi neste post, férias pode - e deve - ser uma recarga criativa.
+Estou com algumas metas envolvendo projetos pessoais e criação de conteúdo em outros formatos.</description>
+      <content:encoded><![CDATA[<h2 id="jan-24">Jan 24</h2>
+<p>Foi um bom início de ano. Aproveitei o tempo sem aula para viajar, tanto que, quase não estive em casa durante o mês. Isso fez com que eu não tivesse muito tempo de produzir. Felizmente, planejei bastante coisa.</p>
+<p>É uma ideia parecida com o que eu já escrevi neste post, férias pode - e deve - ser uma recarga criativa.</p>
+<p>Estou com algumas metas envolvendo projetos pessoais e criação de conteúdo em outros formatos. Algo que facilita a execução de ambas as coisas é que elas são complementares, então na teoria, não terei dificuldade em balancear o foco.</p>
+<h3 id="-updates">📌 Updates</h3>
+<ul>
+<li>
+<p>Publiquei a versão 1.0 do meu guia sobre criação de um repositório no github usando git.</p>
+</li>
+<li>
+<p>Melhorei a interface dos meu projeto pessoais: LCC e posterpack.</p>
+</li>
+<li>
+<p>Fiz correções e melhorias no Scot Scot.</p>
+</li>
+</ul>
+<h3 id="-filmes">☂️ Filmes</h3>
+<p>Assisti 15 filmes nesse mês. Os meus favoritos foram Willy Wonka &amp; the Chocolate Factory (1971) [4.5/5] e Eu Sei que Vou te Amar (1986) [4/5].</p>
+<h1 id="heading"></h1>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Alguns materiais feito por mim.</title>
       <link>https://jardim.thenzolima.com.br/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -543,7 +574,7 @@ Um dos únicos pontos que me incomodou no Zorin é o fato de que edições atuai
       <description>Vez ou outra escrevo conteúdos didáticos sobre o que eu sei e disponibilizo aqui. Geralmente voltado para a área de tecnologia. Todos os materiais estão licenciado sob CC BY-NC-SA 4.0. Para visualizar uma cópia desta licença, visite esta página.
 Criando e Sincronizando um Repositório Git no Github. </description>
       <content:encoded><![CDATA[<p>Vez ou outra escrevo conteúdos didáticos sobre o que eu sei e disponibilizo aqui. Geralmente voltado para a área de tecnologia. Todos os materiais estão licenciado sob CC BY-NC-SA 4.0. Para visualizar uma cópia desta licença, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br">visite esta página</a>.</p>
-<h2 id="criando-e-sincronizando-um-repositório-git-no-githubcriando-e-sincronizando-um-repositório-git-no-githubpdf"><a href="./criando-e-sincronizando-um-reposit%C3%B3rio-git-no-github.pdf">Criando e Sincronizando um Repositório Git no Github.</a></h2>
+<h3 id="criando-e-sincronizando-um-repositório-git-no-githubcriando-e-sincronizando-um-repositório-git-no-githubpdf"><a href="./criando-e-sincronizando-um-reposit%C3%B3rio-git-no-github.pdf">Criando e Sincronizando um Repositório Git no Github.</a></h3>
 ]]></content:encoded>
     </item>
     
@@ -598,6 +629,17 @@ Título Autor Nota Daisy Jones &amp;amp; The Six Taylor Jenkins Reid ★★★½
 </tr>
 </tbody>
 </table>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Matérias e coberturas.</title>
+      <link>https://jardim.thenzolima.com.br/mat%C3%A9rias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Enzo Lima</author>
+      <guid>https://jardim.thenzolima.com.br/mat%C3%A9rias/</guid>
+      <description>Os impactos do aumento da tarifa no coletivo de Ilhéus. - Grêmio Estudantil Costa do Cacau </description>
+      <content:encoded><![CDATA[<h3 id="os-impactos-do-aumento-da-tarifa-no-coletivo-de-ilhéushttpsgremiocostadocacaumediumcomos-impactos-do-aumento-da-tarifa-do-coletivo-de-ilhéus-f0dd2d66f2ab---grêmio-estudantil-costa-do-cacau"><a href="https://gremiocostadocacau.medium.com/os-impactos-do-aumento-da-tarifa-do-coletivo-de-ilh%C3%A9us-f0dd2d66f2ab">Os impactos do aumento da tarifa no coletivo de Ilhéus.</a> - Grêmio Estudantil Costa do Cacau</h3>
 ]]></content:encoded>
     </item>
     
